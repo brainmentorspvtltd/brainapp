@@ -1,0 +1,21 @@
+{
+    "name": "PWA Example - Brain Mentors Pvt Ltd",
+    "short_name": "Brain Mentors",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#E0FFFF",
+    "theme_color": "#ff0000",
+    "description": "Awesome App Build By Awesome Developer",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation": "portrait-primary",
+    "icons": [{
+        "src": "/images/icons/logo.png",
+        "type": "image/png",
+        "sizes": "144x144"
+    }]
+
+
+
+}
